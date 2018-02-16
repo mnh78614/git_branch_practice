@@ -2,10 +2,10 @@
 
 These are a few of my favorite things:
 
-- Eating really good food
+- Another thing
 - Raindrops on roses
 - Whiskers on cute animals
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
-- Eating good food
+- INFO 201
