@@ -2,10 +2,10 @@
 
 These are a few of my favorite things:
 
-- Another thing
+
 - Raindrops on roses
 - Whiskers on cute animals
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
-- INFO 201
+- info 201
